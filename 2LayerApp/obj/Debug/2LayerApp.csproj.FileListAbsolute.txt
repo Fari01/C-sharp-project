@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\bin\Debug\2LayerApp.exe.config
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\bin\Debug\2LayerApp.exe
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\bin\Debug\2LayerApp.pdb
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\obj\Debug\2LayerApp.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\obj\Debug\_2LayerApp.Form1.resources
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\obj\Debug\_2LayerApp.Properties.Resources.resources
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\obj\Debug\2LayerApp.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\obj\Debug\2LayerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\obj\Debug\2LayerApp.exe
+C:\Users\Hp\source\repos\2LayerApp\2LayerApp\obj\Debug\2LayerApp.pdb
